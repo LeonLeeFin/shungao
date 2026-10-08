@@ -1,0 +1,7 @@
+{
+  "upstream": "https://github.com/Blaizzy/mlx-audio",
+  "commit": "364585faa92dbff819583e0e5bf691e256179590",
+  "version": "0.4.3",
+  "sourceCopied": true,
+  "weightsIncludedInRuntime": false
+}
